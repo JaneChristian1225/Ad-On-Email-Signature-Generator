@@ -83,7 +83,7 @@ button:hover {
 }
 
 .menu button:focus{
-    background-color: #ffffff; /* Darker green for active button */
+    background-color: #29A8DF; /* Darker green for active button */
     /* border-radius: 8px; */
 }
 .menu .active{
